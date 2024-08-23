@@ -1,0 +1,9 @@
+package basics;
+
+public class Europe_Traffic {
+	
+	public void zebracrossing() {
+		System.out.println("people please use zebra crossing while crossing the road");
+	}
+
+}

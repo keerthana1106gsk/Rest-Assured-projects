@@ -1,0 +1,10 @@
+package demo_pro1;
+
+public class CreateBug {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
